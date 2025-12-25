@@ -1,2 +1,6 @@
 # Deep Learning–Based Sequence Classification in Genomics
-Deep learning–based binary classification of DNA sequences using ANN and 1D CNN models, with comparative analysis of nucleotide encoding strategies and training dynamics.
+The project explores how different nucleotide encoding strategies and neural network architectures affect performance on a binary DNA sequence classification task.
+
+The work is based on and extended from the official tutorial notebook:
+A Primer on Deep Learning in Genomics by Abid et al.
+
