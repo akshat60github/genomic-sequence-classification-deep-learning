@@ -29,7 +29,7 @@ Splits: Train / Validation / Test (70 / 15 / 15) with fixed random seeds
 Any dataset slicing or preprocessing steps are clearly documented in the notebook.
 
 ## Experiments Performed
-1️⃣ Nucleotide Encoding Strategies (ANN)
+### 1️⃣ Nucleotide Encoding Strategies (ANN)
 
 Three encoding techniques were implemented and evaluated using a minimal ANN:
 
@@ -47,7 +47,7 @@ Convergence behavior
 
 Pros and cons for genomic learning tasks
 
-2️⃣ Training Diagnostics & Model Validity
+### 2️⃣ Training Diagnostics & Model Validity
 
 For the best-performing ANN:
 
@@ -71,7 +71,7 @@ ROC-AUC
 
 Confusion Matrix
 
-3️⃣ ANN Depth & Activation Study
+### 3️⃣ ANN Depth & Activation Study
 
 Controlled experiments were conducted to study:
 
@@ -89,7 +89,7 @@ Comparable parameter counts
 
 Clear performance interpretation
 
-4️⃣ CNN for Sequence Classification
+### 4️⃣ CNN for Sequence Classification
 
 A 1D Convolutional Neural Network was implemented and compared against ANN models:
 
