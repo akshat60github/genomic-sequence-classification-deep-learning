@@ -109,13 +109,24 @@ Single reusable train/validation/test split function
 
 Unified metric reporting utility for all experiments
 
-🛠 Tools & Technologies
+## 🛠 Tools & Technologies
 
 Programming: Python
 
 Deep Learning: TensorFlow / Keras
 
 Data Processing: NumPy, Pandas
+
+## References
+
+Abid et al., A Primer on Deep Learning in Genomics
+
+COSMIC / TCGA concepts referenced for biological context
+
+## ✨ Author
+
+Akshat Kumar
+B.Tech CSE & Biosciences, IIIT Delhi
 
 Visualization: Matplotlib, Seaborn
 
